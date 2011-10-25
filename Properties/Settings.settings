@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SharePointConnector.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SharepointComponent_Webs_Webs" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://share/_vti_bin/Webs.asmx</Value>
+    </Setting>
+    <Setting Name="SharepointComponent_Views_Views" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://share/_vti_bin/Views.asmx</Value>
+    </Setting>
+    <Setting Name="SharepointComponent_Lists_Lists" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://share/_vti_bin/Lists.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,11 @@
+﻿/* === HTML ELEMENTS === */
+body { font-family: Arial; font-size: 11px; color: #000;  }
+
+/* === ERROR MESSAGES === */
+.errorLabel { background: url('../Images/unauthorized_access.gif') no-repeat 10px 10px; border: solid 1px #dcdcdc; background-color: #fafafa; padding: 10px 10px 10px 48px; }
+.errorLabel, .errorLable span { color: #000 !important; }
+.errorLabel .errorTitle { font-size: 14px; font-weight: bold; display: block; margin: 0px 0px 4px 0px; }
+.errorLabel .errorSubTitle { font-size: 11px; font-weight: normal; }
+
+/* === TREEVIEW CONNECTOR/line FIX === */
+#SiteDetailTreeView td div { height: auto !important; }

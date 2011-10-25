@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocIcons>
+    <ByProgID>
+        <Mapping Key="Excel.Sheet" Value="ichtmxls.gif" EditText="Microsoft Office Excel" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="FrontPage.Editor.Document" Value="ichtmfp.gif" EditText="Microsoft Office SharePoint Designer" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="InfoPath.Document" Value="icxddoc.gif" EditText="Microsoft Office InfoPath" OpenControl="SharePoint.OpenXMLDocuments"/>
+        <Mapping Key="InfoPath.Document.2" Value="icxddoc.gif" EditText="Microsoft Office InfoPath" OpenControl="SharePoint.OpenXMLDocuments.2"/>
+        <Mapping Key="InfoPath.Document.3" Value="icxddoc.gif" EditText="Microsoft Office InfoPath" OpenControl="SharePoint.OpenXMLDocuments.3"/>
+        <Mapping Key="InfoPath.Document.4" Value="icxddoc.gif" EditText="Microsoft Office InfoPath" OpenControl="SharePoint.OpenXMLDocuments.4"/>
+        <Mapping Key="ODC.Cube" Value="icodcc.gif" EditText="Microsoft Office Excel" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="ODC.Database" Value="icodcd.gif" EditText="Microsoft Office Excel" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="ODC.Table" Value="icodct.gif" EditText="Microsoft Office Excel" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="PowerPoint.Slide" Value="ichtmppt.gif" EditText="Microsoft Office PowerPoint" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="Publisher.Document" Value="ichtmpub.gif" EditText="Microsoft Office Publisher" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="SharePoint.WebPartPage.Document" Value="icsmrtpg.gif" EditText="Microsoft Office SharePoint Designer" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="Word.Document" Value="ichtmdoc.gif" EditText="Microsoft Office Word" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="XDocs.Document" Value="icxddoc.gif" EditText="Microsoft Office InfoPath" OpenControl="SharePoint.OpenXMLDocuments"/>
+        <Mapping Key="SharePoint.Link" Value="DOCLINK.GIF"/>
+    </ByProgID>
+    <ByExtension>
+        <Mapping Key="accdb" Value="icaccdb.gif"  EditText="Microsoft Office Access" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="accdt" Value="icaccdb.gif"/>
+        <Mapping Key="accdc" Value="icaccdb.gif"/>        
+        <Mapping Key="accde" Value="icaccde.gif"  EditText="Microsoft Office Access" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="accdr" Value="icaccde.gif"  EditText="Microsoft Office Access" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="asax" Value="icasax.gif" OpenControl=""/>
+        <Mapping Key="ascx" Value="icascx.gif" EditText="Microsoft Office SharePoint Designer" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="asmx" Value="icasmx.gif" OpenControl=""/>
+        <Mapping Key="asp" Value="ichtm.gif" OpenControl=""/>
+        <Mapping Key="aspx" Value="ichtm.gif" EditText="Microsoft Office SharePoint Designer" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="bmp" Value="icbmp.gif"/>
+        <Mapping Key="cat" Value="iccat.gif" OpenControl=""/>
+        <Mapping Key="chm" Value="icchm.gif" OpenControl=""/>
+        <Mapping Key="config" Value="icconfig.gif" OpenControl=""/>
+        <Mapping Key="css" Value="iccss.gif" OpenControl=""/>
+        <Mapping Key="db" Value="icdb.gif" OpenControl=""/>
+        <Mapping Key="dib" Value="icdib.gif"/>
+        <Mapping Key="disc" Value="icdisc.gif" OpenControl=""/>
+        <Mapping Key="doc" Value="icdoc.gif" EditText="Microsoft Office Word" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="docm" Value="icdocx.gif" EditText="Microsoft Office Word" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="docx" Value="icdocx.gif" EditText="Microsoft Office Word" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="dot" Value="icdot.gif" EditText="Microsoft Office Word" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="dotm" Value="icdotx.gif" EditText="Microsoft Office Word" OpenControl="SharePoint.OpenDocuments"/>        
+        <Mapping Key="dotx" Value="icdotx.gif" EditText="Microsoft Office Word" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="dvd" Value="icdvd.gif" OpenControl=""/>
+        <Mapping Key="dwp" Value="icdwp.gif" OpenControl=""/>
+        <Mapping Key="dwt" Value="icdwt.gif" OpenControl=""/>
+        <Mapping Key="eml" Value="iceml.gif" OpenControl=""/>
+        <Mapping Key="est" Value="icest.gif" OpenControl=""/>
+        <Mapping Key="fwp" Value="icfwp.gif" OpenControl=""/>
+        <Mapping Key="gif" Value="icgif.gif"/>
+        <Mapping Key="hlp" Value="ichlp.gif" OpenControl=""/>
+        <Mapping Key="hta" Value="ichta.gif" OpenControl=""/>
+        <Mapping Key="htm" Value="ichtm.gif" EditText="Microsoft Office SharePoint Designer" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="html" Value="ichtm.gif" EditText="Microsoft Office SharePoint Designer" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="htt" Value="ichtt.gif" OpenControl=""/>
+        <Mapping Key="inf" Value="icinf.gif"/>
+        <Mapping Key="ini" Value="icini.gif"/>
+        <Mapping Key="jfif" Value="icjfif.gif"/>
+        <Mapping Key="jpe" Value="icjpe.gif"/>
+        <Mapping Key="jpeg" Value="icjpeg.gif"/>
+        <Mapping Key="jpg" Value="icjpg.gif"/>
+        <Mapping Key="js" Value="icjs.gif" OpenControl=""/>
+        <Mapping Key="jse" Value="icjse.gif" OpenControl=""/>
+        <Mapping Key="log" Value="iclog.gif"/>
+        <Mapping Key="master" Value="icmaster.gif" EditText="Microsoft Office SharePoint Designer" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="mht" Value="icmht.gif" EditText="Microsoft Office Word" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="mhtml" Value="icmht.gif" EditText="Microsoft Office Word" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="mpd" Value="icmpd.gif" OpenControl=""/>
+        <Mapping Key="mpp" Value="icmpp.gif" EditText="Microsoft Office Project" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="mps" Value="icmps.gif" OpenControl=""/>
+        <Mapping Key="mpt" Value="icmpt.gif" EditText="Microsoft Office Project" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="mpw" Value="icmpw.gif" OpenControl=""/>
+        <Mapping Key="mpx" Value="icmpx.gif" OpenControl=""/>
+        <Mapping Key="msg" Value="icmsg.gif" OpenControl=""/>
+        <Mapping Key="msi" Value="icmsi.gif" OpenControl=""/>
+        <Mapping Key="msp" Value="icmsp.gif" OpenControl=""/>
+        <Mapping Key="ocx" Value="icocx.gif" OpenControl=""/>
+        <Mapping Key="odc" Value="icodc.gif" EditText="Microsoft Office Excel" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="odp" Value="icodp.png" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="odt" Value="icodt.png" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="ods" Value="icods.png" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="one" Value="icone.gif" EditText="Microsoft Office OneNote" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="onepkg" Value="iconp.gif" EditText="Microsoft Office OneNote" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="onetoc2" Value="icont.gif" EditText="Microsoft Office OneNote" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="png" Value="icpng.gif"/>
+        <Mapping Key="pot" Value="icpot.gif" EditText="Microsoft Office PowerPoint" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="potm" Value="icpotx.gif" EditText="Microsoft Office PowerPoint" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="potx" Value="icpotx.gif" EditText="Microsoft Office PowerPoint" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="ppt" Value="icppt.gif" EditText="Microsoft Office PowerPoint" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="pptm" Value="icpptx.gif" EditText="Microsoft Office PowerPoint" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="pptx" Value="icpptx.gif" EditText="Microsoft Office PowerPoint" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="pps" Value="icpps.gif" EditText="Microsoft Office PowerPoint" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="psp" Value="icpsp.gif" OpenControl=""/>
+        <Mapping Key="psd" Value="icbmp.gif"/>
+        <Mapping Key="ptm" Value="icptm.gif" OpenControl=""/>
+        <Mapping Key="ptt" Value="icptt.gif" OpenControl=""/>
+        <Mapping Key="pub" Value="icpub.gif" EditText="Microsoft Office Publisher" OpenControl="SharePoint.OpenDocuments"/>  
+        <Mapping Key="rtf" Value="icrtf.gif"/>
+        <Mapping Key="stp" Value="icstp.gif" OpenControl=""/>
+        <Mapping Key="stt" Value="icstt.gif" OpenControl=""/>
+        <Mapping Key="tif" Value="ictif.gif"/>
+        <Mapping Key="tiff" Value="ictiff.gif"/>
+        <Mapping Key="txt" Value="ictxt.gif"/>
+        <Mapping Key="vbe" Value="icvbe.gif" OpenControl=""/>
+        <Mapping Key="vbs" Value="icvbs.gif" OpenControl=""/>
+        <Mapping Key="vdx" Value="icvdx.gif" EditText="Microsoft Office Visio" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="vsd" Value="icvsd.gif" EditText="Microsoft Office Visio" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="vsl" Value="icvsl.gif" OpenControl=""/>
+        <Mapping Key="vss" Value="icvss.gif" EditText="Microsoft Office Visio" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="vst" Value="icvst.gif" EditText="Microsoft Office Visio" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="vsu" Value="icvsu.gif" OpenControl=""/>
+        <Mapping Key="vsw" Value="icvsw.gif" OpenControl=""/>
+        <Mapping Key="vsx" Value="icvsx.gif" EditText="Microsoft Office Visio" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="vtx" Value="icvtx.gif" EditText="Microsoft Office Visio" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="webpart" Value="icdwp.gif" OpenControl=""/>
+        <Mapping Key="wm" Value="icwm.gif" OpenControl=""/>
+        <Mapping Key="wma" Value="icwma.gif" OpenControl=""/>
+        <Mapping Key="wmd" Value="icwmd.gif" OpenControl=""/>
+        <Mapping Key="wmp" Value="icwmp.gif" OpenControl=""/>
+        <Mapping Key="wms" Value="icwms.gif" OpenControl=""/>
+        <Mapping Key="wmv" Value="icwmv.gif" OpenControl=""/>
+        <Mapping Key="wmx" Value="icwmx.gif" OpenControl=""/>
+        <Mapping Key="wmz" Value="icwmz.gif" OpenControl=""/>
+        <Mapping Key="wsf" Value="icwsf.gif" OpenControl=""/>
+        <Mapping Key="xls" Value="icxls.gif" EditText="Microsoft Office Excel" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="xlsb" Value="icxlsx.gif" EditText="Microsoft Office Excel" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="xlsm" Value="icxlsx.gif" EditText="Microsoft Office Excel" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="xlsx" Value="icxlsx.gif" EditText="Microsoft Office Excel" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="xlt" Value="icxlt.gif" EditText="Microsoft Office Excel" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="xltb" Value="icxltx.gif" EditText="Microsoft Office Excel" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="xltm" Value="icxltx.gif" EditText="Microsoft Office Excel" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="xltx" Value="icxltx.gif" EditText="Microsoft Office Excel" OpenControl="SharePoint.OpenDocuments"/>
+        <Mapping Key="xml" Value="icxml.gif"/>
+        <Mapping Key="xps" Value="icxps.gif" OpenControl=""/>
+        <Mapping Key="xsd" Value="icxsd.gif"/>
+        <Mapping Key="xsl" Value="icxsl.gif"/>
+        <Mapping Key="xsn" Value="icxsn.gif" EditText="Microsoft Office InfoPath" OpenControl="SharePoint.OpenXMLDocuments"/>
+        <Mapping Key="xslt" Value="icxslt.gif"/>
+        <Mapping Key="zip" Value="iczip.gif" OpenControl=""/>
+    </ByExtension>
+    <Default>
+        <Mapping Value="icgen.gif"/>
+    </Default>
+</DocIcons>
